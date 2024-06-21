@@ -1,4 +1,4 @@
-package curso_programacao_udemy;
+package curso_programacao_udemy_exercicio_print;
 
 import java.util.Locale;
 
